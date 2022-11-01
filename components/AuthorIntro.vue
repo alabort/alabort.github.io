@@ -13,10 +13,15 @@
 
 
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      I am currently in my last year as a Finance student at the Zicklin School of Business (Baruch College) and Free University of Bozen (Italy). I had the opportunity to get selected for a highly competitive program, a dual degree Master’s program in Finance and Accounting. 
-      
-      My previous and current work experiences in New York have provided me with detailed knowledge of financial institutions and increased my interest in pursuing a career in finance. My primary interests are Asset Management and Risk Management, but the list is still growing. If you are interested in talking about my experiences, feel free to contact me.
-
+    Originally from Italy, I now live in the United States pursuing a master's degree in finance at Baruch College - Zicklin School of Business. I decided to enroll in a prestigious double degree program in collaboration with the Free University of Bolzano to deepen my understanding of investments, risk management, financial markets, and institutions.
     </p>
+    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
+    Analyzing and identifying opportunities for companies are the driving forces that excite me. I enjoy evaluating and forecasting a company's value. Being self-motivated and highly goal-oriented, I look forward to applying my classroom knowledge in real-world situations. I had diverse opportunities and experiences in New York that taught me resilience and increased my interest in pursuing a career in finance.
+    </p>
+    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
+    The fields of Asset Management and Risk Management are my primary interests, however, I am open to exploring other finance areas as well. If you are interested in talking about my experiences, feel free to contact me.
+    </p>
+    
+    
   </div>
 </template>
