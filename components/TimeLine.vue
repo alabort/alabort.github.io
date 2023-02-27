@@ -35,7 +35,7 @@
         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
           • Prepared presentation materials to assist financial advisors in growing their client base.
         </p>
-        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
           • Participated in more than 80 introductory and investment review meetings to learn sales language, witness client follow-up and plan execution.
         </p>
       </li>
