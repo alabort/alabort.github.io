@@ -32,7 +32,7 @@
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
           • Identified innovative investment research and CRM products to improve and streamline operational procedures.
         </p>
-        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
           • Prepared presentation materials to assist financial advisors in growing their client base.
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
