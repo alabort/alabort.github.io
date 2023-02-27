@@ -13,7 +13,7 @@
         <h3
           class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white"
         >
-          Wealth Management Intern
+          Wealth Management Analyst (Internship)
           <span
             class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3"
             >Currently</span
@@ -24,16 +24,19 @@
           >Magnus Financial Group | New York, NY, United States | 2022</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          • Leveraged advanced Excel skills (Pivot Tables, VBA) to improve investment, insurance, and tax optimization models.
+          • Leveraged advanced Excel skills (VBA) to improve more than 30 investment and tax optimization models.
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-        • Conducted investment research to assist advisors in maintaining over 2,000 clients.
+          • Developed several investment research reports that were incorporated into customized asset allocation plans.
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-        • Acquired technical knowledge of financial instruments (Life Insurance, Debt and Equity) by attending educational workshops.
+          • Identified innovative investment research and CRM products to improve and streamline operational procedures.
         </p>
         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-        • Shadowed staff at introductory and investment review meetings to learn sales language, witness client follow-up and plan execution.
+          • Prepared presentation materials to assist financial advisors in growing their client base.
+        </p>
+        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+          • Participated in more than 80 introductory and investment review meetings to learn sales language, witness client follow-up and plan execution.
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -46,20 +49,23 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Research Assistant
+          Equity Research Analyst (Internship)
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >Free University of Bolzano | Bolzano, BZ, Italy | 2021</time
+          >Songbird Capital | Princeton, NJ, United States | 07-08/2022</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          • Implemented method for synthesizing widely varying types of accounting data collected from 50 banks in a database.
+          • Created earnings, valuation and industry models leveraging skills in accounting, finance and economics.
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-        • Compiled, analyzed, and managed a database including dividends of more than 1000 Italian private firms.
+          • Conducted quantitative and qualitative analysis on topics related to electric mobility, while maintaining coverage of 10 securities in the Industrials and Technology sectors.
          </p>
          <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-         • Utilized software such as Python and Excel to create strings of text to be used in a Machine Learning project.
+         • Produced market research reports for analysis of data, earning results and initiations of coverage.
+        </p>
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+         • Summarized investment recommendations for internal and executive audiences.
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -72,17 +78,17 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          MS in Accounting and Finance
+          MS in Finance
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
           >Baruch College, Zicklin School of Business | New York, NY | 2020-2022
         </time>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          Honors: Double Degree Program, Songbird Capital Academic Scholarship, Beta Gamma Sigma Member (top 10% of my class)
+          Honors: Double Degree Program, Songbird Capital Academic Scholarship, Beta Gamma Sigma Member (top 20% of my class)
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-        Relevant Courses: Econometrics, Corporate Valuation and Forecasting, Risk in Investments
+        Relevant Courses: Econometrics, Corporate Valuation, Risk in Investments, Management of Market Risks
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -95,15 +101,15 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          BS in Economics and Management 
+          BS in Economics and Management
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
           >Free University of Bolzano | Bolzano, Italy | 2017-2020</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          Dean’s List 2017-2018, 2019-2020 (top 10% of my class). 
-        
+          Dean’s List 2017-2018, 2019-2020 (top 10% of my class).
+
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
         Exchange Program: University of Vaasa, Vaasan Yliopisto (Vaasa, Finland).
